@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate at the University of Houston completing a dual B.S. in Physics and Mathematics (expected Spring 2027). I do research in nonlinear dynamics with Dr. Gemunu Gunaratne.
+I'm an undergraduate at the University of Houston completing a B.S. with a double major in Physics and Mathematics (expected May 2027). I do research in nonlinear dynamics with Dr. Gemunu Gunaratne.
 
 **I am applying to PhD programs for Fall 2027.**
 

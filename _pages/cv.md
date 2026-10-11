@@ -14,7 +14,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics and B.S. in Mathematics, University of Houston, Spring 2027 (expected)
+* B.S., double major in Physics and Mathematics, University of Houston, May 2027 (expected)
+
+Selected coursework
+======
+**Graduate**
+
+* MATH 6324 Differential Equations (Prof. Vaughn Climenhaga), Spring 2026
+  * Existence and uniqueness (Picard iteration); Jordan normal form and matrix exponentials; stability of fixed points and periodic orbits; stable and unstable manifolds; Lyapunov exponents; the Hartman–Grobman, Hadamard–Perron, and Poincaré–Bendixson theorems; Poincaré return maps and discrete-time dynamical systems
+* MATH 6326 Partial Differential Equations (Prof. Mikhail Perepelitsa), Fall 2026 (in progress)
+  * Following Evans: method of characteristics; fundamental solutions of the transport, Laplace, Poisson, and heat equations; existence and uniqueness; maximum principles
+* PHYS 6319 Advanced Mechanics I (Prof. Michał Papaj), Fall 2026 (in progress)
+  * Graduate-level Lagrangian and Hamiltonian mechanics
+
+**Undergraduate differential equations sequence**
+
+* MATH 3331 Intermediate Differential Equations
+* MATH 3363 Introduction to Partial Differential Equations
+* MATH 4335 Partial Differential Equations I
+* MATH 4362 Theory of Differential Equations and Nonlinear Dynamics
+* MATH 4365 Numerical Methods for Differential Equations, Spring 2027 (planned)
+
+With MATH 4365, I will have completed every differential equations course in the University of Houston's undergraduate mathematics catalog.
 
 Research experience
 ======
