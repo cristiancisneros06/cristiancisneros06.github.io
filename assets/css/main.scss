@@ -37,3 +37,31 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+
+/* ==========================================================================
+   Always dark: black background, white text.
+   Applies whether or not the visitor's device prefers light mode.
+   ========================================================================== */
+
+:root,
+html[data-theme="dark"] {
+    --global-base-color                 : #ffffff !important;
+    --global-bg-color                   : #000000 !important;
+    --global-footer-bg-color            : #000000 !important;
+    --global-border-color               : #333333 !important;
+    --global-dark-border-color          : #555555 !important;
+    --global-code-background-color      : #111111 !important;
+    --global-code-text-color            : #eeeeee !important;
+    --global-fig-caption-color          : #bbbbbb !important;
+    --global-link-color                 : #ffffff !important;
+    --global-link-color-hover           : #bbbbbb !important;
+    --global-link-color-visited         : #ffffff !important;
+    --global-masthead-link-color        : #ffffff !important;
+    --global-masthead-link-color-hover  : #bbbbbb !important;
+    --global-text-color                 : #ffffff !important;
+    --global-text-color-light           : #c8c8c8 !important;
+    --global-thead-color                : #111111 !important;
+    color-scheme: dark;
+}
+
