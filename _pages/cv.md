@@ -21,7 +21,11 @@ Research experience
 * Undergraduate Researcher, Nonlinear Dynamics <!-- TODO: add start date, e.g. "2024 – present" -->
   * Department of Physics, University of Houston
   * Advisor: Dr. Gemunu Gunaratne
-  * Projects: CNN classification of the Hénon map; multifractal analysis of genomic point-sets; riboswitch folding
+  * Projects: CNN classification of the Hénon map; multifractal analysis of genomic point-sets
+* Research Intern, Frontiers in Science (FIS) Program, Summer 2025
+  * Center for Theoretical Biological Physics, Rice University
+  * Project: computational analysis of mRNA riboswitch folding at varying ion concentrations
+  <!-- TODO: add your mentor, e.g. "Mentor: Dr. Name" -->
 
 Publications
 ======
