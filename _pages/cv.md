@@ -25,7 +25,7 @@ Research experience
 * Research Intern, Frontiers in Science (FIS) Program, Summer 2025
   * Center for Theoretical Biological Physics, Rice University
   * Project: computational analysis of mRNA riboswitch folding at varying ion concentrations
-  <!-- TODO: add your mentor, e.g. "Mentor: Dr. Name" -->
+  * PI: Dr. José N. Onuchic; mentor: Erdong Ding (graduate student)
 
 Publications
 ======
