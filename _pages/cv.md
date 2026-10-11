@@ -16,6 +16,41 @@ Education
 ======
 * B.S., double major in Physics and Mathematics, University of Houston, May 2027 (expected)
 
+Research experience
+======
+* Undergraduate Researcher, Nonlinear Dynamics <!-- TODO: add start date, e.g. "2024 – present" -->
+  * Department of Physics, University of Houston
+  * Advisor: Dr. Gemunu Gunaratne
+  * Projects: CNN classification of the Hénon map; multifractal analysis of genomic point-sets; riboswitch folding
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Awards and funding
+======
+* University of Houston Department of Physics Undergraduate Research Support ($1,000), 2026
+
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
+Leadership and service
+======
+* Manager, Math Modeling Club (Cougar Mathletics), University of Houston, Spring 2026 – present
+  * Faculty advisor: Dr. Jaramillo
+  * Lead outreach for a weekly talk series on mathematical modeling in academia and industry, and recruit student teams for the SCUDEM challenge
+
 Selected coursework
 ======
 **Graduate**
@@ -37,44 +72,9 @@ Selected coursework
 
 With MATH 4365, I will have completed every differential equations course in the University of Houston's undergraduate mathematics catalog.
 
-Research experience
-======
-* Undergraduate Researcher, Nonlinear Dynamics <!-- TODO: add start date, e.g. "2024 – present" -->
-  * Department of Physics, University of Houston
-  * Advisor: Dr. Gemunu Gunaratne
-  * Projects: CNN classification of the Hénon map; multifractal analysis of genomic point-sets; riboswitch folding
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Leadership and service
-======
-* Manager, Math Modeling Club (Cougar Mathletics), University of Houston, Spring 2026 – present
-  * Faculty advisor: Dr. Jaramillo
-  * Lead outreach for a weekly talk series on mathematical modeling in academia and industry, and recruit student teams for the SCUDEM challenge
-
 Competitions
 ======
 * SCUDEM XI (Student Challenge Using Differential Equations Modeling), COMAP, team member, Fall 2026
-
-Awards and funding
-======
-* University of Houston Department of Physics Undergraduate Research Support ($1,000), 2026
 
 <!-- TODO: Add a Skills section, for example:
 Skills
