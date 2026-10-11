@@ -9,37 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- TODO: Once your CV PDF is ready, upload it to the files/ folder as cristian-cisneros-cv.pdf, then delete the comment markers around the next line. -->
+<!-- [Download CV (PDF)](/files/cristian-cisneros-cv.pdf) -->
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Physics and B.S. in Mathematics, University of Houston, Spring 2027 (expected)
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Undergraduate Researcher, Nonlinear Dynamics <!-- TODO: add start date, e.g. "2024 – present" -->
+  * Department of Physics, University of Houston
+  * Advisor: Dr. Gemunu Gunaratne
+  * Projects: CNN classification of the Hénon map; multifractal analysis of genomic point-sets; riboswitch folding
 
 Publications
 ======
@@ -58,7 +40,14 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Awards and funding
 ======
-* Currently signed in to 43 different slack teams
+* University of Houston Department of Physics Undergraduate Research Support ($1,000), 2026
+
+<!-- TODO: Add a Skills section, for example:
+Skills
+======
+* Programming: Python, ...
+* Machine learning: PyTorch, ...
+-->
