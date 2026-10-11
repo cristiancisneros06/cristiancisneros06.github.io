@@ -190,6 +190,11 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - README.md
+  - AGENTS.md
+  - markdown_generator
+  - docker-compose.yaml
+  - _config_docker.yml
   - tmp
   - vendor
 keep_files:

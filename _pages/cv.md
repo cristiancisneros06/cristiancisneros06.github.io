@@ -18,7 +18,7 @@ Education
 
 Research experience
 ======
-* Undergraduate Researcher, Nonlinear Dynamics <!-- TODO: add start date, e.g. "2024 – present" -->
+* Undergraduate Researcher, Nonlinear Dynamics, November 2025 – present
   * Department of Physics, University of Houston
   * Advisor: Dr. Gemunu Gunaratne
   * Projects: CNN classification of the Hénon map; multifractal analysis of genomic point-sets
@@ -80,9 +80,7 @@ Competitions
 ======
 * SCUDEM XI (Student Challenge Using Differential Equations Modeling), COMAP, team member, Fall 2026
 
-<!-- TODO: Add a Skills section, for example:
 Skills
 ======
-* Programming: Python, ...
-* Machine learning: PyTorch, ...
--->
+* Programming: Python
+* Typesetting: LaTeX
