@@ -41,6 +41,16 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Leadership and service
+======
+* Manager, Math Modeling Club (Cougar Mathletics), University of Houston, Spring 2026 – present
+  * Faculty advisor: Dr. Jaramillo
+  * Lead outreach for a weekly talk series on mathematical modeling in academia and industry, and recruit student teams for the SCUDEM challenge
+
+Competitions
+======
+* SCUDEM XI (Student Challenge Using Differential Equations Modeling), COMAP, team member, Fall 2026
+
 Awards and funding
 ======
 * University of Houston Department of Physics Undergraduate Research Support ($1,000), 2026

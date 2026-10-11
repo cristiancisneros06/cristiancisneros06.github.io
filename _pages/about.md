@@ -21,4 +21,4 @@ On the machine-learning side, I study how measure-preserving data augmentation c
 
 Outside research
 ======
-I teach martial arts and enjoy chess, Counter-Strike, and building computers. Above all, I want to be a lifelong student of mathematics, physics, and anything else worth learning.
+I teach martial arts and enjoy chess, Counter-Strike, and building computers. Above all, I want to be a lifelong student of mathematics, physics, and anything else worth learning. More on my [interests page](/interests/).
