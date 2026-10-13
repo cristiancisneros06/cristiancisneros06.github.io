@@ -93,6 +93,8 @@ With MATH 4365, I will have completed every differential equations course in the
 * PHYS 3214 Advanced Lab II
 * PHYS 6321 Electrodynamics
 
+I'm keeping Spring 2027 to a lighter course load so I can prioritize research.
+
 Competitions
 ======
 * SCUDEM XI (Student Challenge Using Differential Equations Modeling), COMAP, team member, Fall 2026
