@@ -76,6 +76,23 @@ Selected coursework
 
 With MATH 4365, I will have completed every differential equations course in the University of Houston's undergraduate mathematics catalog.
 
+**Current enrollment, Fall 2026**
+
+* GEOL 1340 Earth Systems
+* MATH 2131 Linear Algebra Lab with MATLAB
+* MATH 3330 Abstract Algebra
+* MATH 4331 Real Analysis I
+* MATH 4389 Survey of Undergraduate Mathematics
+* MATH 6326 Partial Differential Equations
+* PHYS 6319 Advanced Mechanics I
+
+**Planned courses, Spring 2027**
+
+* MATH 4365 Numerical Methods for Differential Equations
+* PHIL 1361 Philosophy and the Arts
+* PHYS 3214 Advanced Lab II
+* PHYS 6321 Electrodynamics
+
 Competitions
 ======
 * SCUDEM XI (Student Challenge Using Differential Equations Modeling), COMAP, team member, Fall 2026
