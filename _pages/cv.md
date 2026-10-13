@@ -103,7 +103,7 @@ Skills
 ======
 * Programming: Python, MATLAB
 * Machine learning: TensorFlow
-* High-performance computing (HPC): cluster computing
+* High-performance computing (HPC): simulations on the NOTS (Rice), Carya (UH), and Sabine (UH) clusters
 * Data visualization: Tableau
 * Typesetting: LaTeX
 
