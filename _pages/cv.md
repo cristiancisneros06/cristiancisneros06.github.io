@@ -103,4 +103,16 @@ Skills
 ======
 * Programming: Python, MATLAB
 * Machine learning: TensorFlow
+* High-performance computing (HPC): cluster computing
+* Data visualization: Tableau
 * Typesetting: LaTeX
+
+Certifications
+======
+* Hewlett Packard Enterprise Data Science Institute (HPE DSI), University of Houston
+  * 311 Introduction to Machine Learning, July 2026
+  * 251 Data Visualization using ParaView and Tableau, July 2026
+  * 211 Data Analysis in R, July 2026
+  * 212 Scientific Programming with Python, March 2026
+  * 101 Introduction to Cluster Computing, March 2026
+* TestOut IT Fundamentals Pro, TestOut Corporation, January 2021
