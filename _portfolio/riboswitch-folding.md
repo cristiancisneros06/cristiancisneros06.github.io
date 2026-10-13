@@ -12,4 +12,4 @@ A computational study of how mRNA riboswitches fold at different ion concentrati
 ![Short description of the figure](/images/riboswitch-figure.png)
 -->
 
-Presented as a [poster](/talks/2025-08-01-riboswitch-folding-fis) at the end of the program (August 2025).
+Presented as a [poster](/talks/2025-08-01-riboswitch-folding-fis) at the end of the program (August 2025). [Poster (PDF)](/files/riboswitch-poster-2025.pdf)
