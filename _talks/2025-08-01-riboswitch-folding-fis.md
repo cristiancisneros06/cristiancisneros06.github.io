@@ -1,8 +1,9 @@
 ---
 title: "Computational Analysis of 2′-Deoxyguanosine Riboswitch Folding Kinetics"
 collection: talks
-type: "Poster"
-permalink: /talks/2025-08-01-riboswitch-folding-fis
+type: "Poster presentation"
+talk_type: "Poster presentation"
+permalink: /presentations/2025-08-01-riboswitch-poster
 venue: "Frontiers in Science (FIS) Program, Center for Theoretical Biological Physics, Rice University"
 date: 2025-08-01
 location: "Houston, TX, USA"

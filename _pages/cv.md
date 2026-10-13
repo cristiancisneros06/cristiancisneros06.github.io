@@ -43,7 +43,7 @@ Awards and funding
 ======
 * University of Houston Department of Physics Undergraduate Research Support ($1,000), 2026
 
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
