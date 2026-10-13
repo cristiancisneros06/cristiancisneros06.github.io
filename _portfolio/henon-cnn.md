@@ -1,6 +1,6 @@
 ---
 title: "CNN Classification of Invariant-Measure-Preserving Deformations of the Hénon Map"
-excerpt: "Summer 2025 – present. How measure-preserving data augmentation changes what a convolutional neural network learns when classifying the Hénon map across parameter regimes."
+excerpt: "November 2025 – present. How measure-preserving data augmentation changes what a convolutional neural network learns when classifying the Hénon map across parameter regimes."
 collection: portfolio
 permalink: /portfolio/henon-cnn/
 ---

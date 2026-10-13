@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- TODO: Once your CV PDF is ready, upload it to the files/ folder as cristian-cisneros-cv.pdf, then delete the comment markers around the next line. -->
-<!-- [Download CV (PDF)](/files/cristian-cisneros-cv.pdf) -->
+[Download CV (PDF)](/files/cristian-cisneros-cv.pdf)
 
 Education
 ======
