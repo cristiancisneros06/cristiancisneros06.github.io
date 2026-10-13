@@ -101,5 +101,6 @@ Competitions
 
 Skills
 ======
-* Programming: Python
+* Programming: Python, MATLAB
+* Machine learning: TensorFlow
 * Typesetting: LaTeX
