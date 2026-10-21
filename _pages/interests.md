@@ -11,13 +11,6 @@ Chess
 I play on the **University of Houston Chess Club's Team A (varsity)**.
 
 * Peak chess.com ratings: 1903 blitz, 1847 bullet, 1777 rapid
-* [chess.com profile](https://www.chess.com/member/xXdifferentialequationsXx)
-
-Esports
-======
-I'm the **AWPer and in-game leader** for **UH Coog Esports' Counter-Strike Team White (JV)**, calling strategy for the team.
-
-* FACEIT Level 9 (of 10)
 
 Martial arts
 ======
