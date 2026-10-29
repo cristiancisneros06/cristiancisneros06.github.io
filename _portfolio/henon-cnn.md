@@ -8,6 +8,8 @@ permalink: /portfolio/henon-cnn/
 <!-- TODO: Replace this paragraph with your 2–3 sentence description. -->
 I train convolutional neural networks to classify the Hénon map's invariant measures across different parameter regimes, and study how deformations that preserve the invariant measure, used as data augmentation, change the signal the network learns and responds to.
 
+*Pictures and details coming soon.*
+
 <!-- TODO: Add figures. Upload images to the images/ folder, then add lines like:
 ![Short description of the figure](/images/henon-figure-1.png)
 -->
