@@ -41,4 +41,4 @@ My everyday machine for CNN research (see the [Hénon map project](/portfolio/he
 
 **October 12, 2026:** Replaced the Ryzen 7 5700X with a Ryzen 9 5900XT, added an AIO liquid cooler, and installed a 1000 W power supply. A 5800X3D would have been better for gaming, but the 5900XT's 16 cores suit my research workloads, and the larger power supply leaves headroom for a GPU upgrade.
 
-**Next:** an NVIDIA V100, the most practical GPU for my current research.
+**Next:** GPU upgrade.
