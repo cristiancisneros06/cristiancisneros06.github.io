@@ -22,8 +22,8 @@ My everyday machine for CNN research (see the [Hénon map project](/portfolio/he
 
 * **CPU:** AMD Ryzen 9 5900XT
 * **Cooling:** Corsair AIO liquid cooler
-* **GPU:** NVIDIA RTX 4060
-* **Memory:** 128 GB DDR4-3200
+* **GPUs:** NVIDIA RTX 2000 Ada; NVIDIA RTX 4060
+* **Memory:** 128 GB DDR4-3200 (4 × 32 GB)
 * **Storage:** Samsung 9100 Pro 2 TB NVMe SSD; Samsung 870 QVO 1 TB SATA SSD
 * **Power supply:** 1000 W
 
@@ -35,6 +35,13 @@ My everyday machine for CNN research (see the [Hénon map project](/portfolio/he
   <figcaption>Left: the original build. Right: October 12, 2026, mid–cable cleanup.</figcaption>
 </figure>
 
+<figure>
+  <img src="/images/pc-build/2026-11-01.jpg" alt="The PC on November 1, 2026, with an RTX 2000 Ada installed above the RTX 4060">
+  <figcaption>November 1, 2026: RTX 2000 Ada installed above the RTX 4060.</figcaption>
+</figure>
+
+**November 1, 2026:** Added an NVIDIA RTX 2000 Ada alongside the RTX 4060 so I can run training jobs in parallel, and it has already sped up training. The memory looks the same as before, but it's now four 32 GB sticks: through local sales and trades, I swapped my original 4 × 16 GB kit for two 2 × 32 GB kits.
+
 **October 31, 2026:** Added another 64 GB of DDR4, bringing memory to 128 GB at 3200 MHz, giving more room to hold large datasets in memory during analysis.
 
 **October 24, 2026:** Took an offer I couldn't pass up on a 2 × 32 GB DDR4-3200 kit, bringing memory to 96 GB. Running the mixed kits together cost a little memory speed, but the extra capacity mainly helps with data analysis, which for some of my work has taken longer than the simulations themselves.
@@ -43,4 +50,4 @@ My everyday machine for CNN research (see the [Hénon map project](/portfolio/he
 
 **October 12, 2026:** Replaced the Ryzen 7 5700X with a Ryzen 9 5900XT, added an AIO liquid cooler, and installed a 1000 W power supply. A 5800X3D would have been better for gaming, but the 5900XT's 16 cores suit my research workloads, and the larger power supply leaves headroom for a GPU upgrade.
 
-**Next:** GPU upgrade.
+**Next:** Possibly replacing the RTX 4060 with a stronger card.
