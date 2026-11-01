@@ -23,7 +23,7 @@ My everyday machine for CNN research (see the [Hénon map project](/portfolio/he
 * **CPU:** AMD Ryzen 9 5900XT
 * **Cooling:** Corsair AIO liquid cooler
 * **GPU:** NVIDIA RTX 4060
-* **Memory:** 96 GB DDR4-3200
+* **Memory:** 128 GB DDR4-3200
 * **Storage:** Samsung 9100 Pro 2 TB NVMe SSD; Samsung 870 QVO 1 TB SATA SSD
 * **Power supply:** 1000 W
 
@@ -34,6 +34,8 @@ My everyday machine for CNN research (see the [Hénon map project](/portfolio/he
   <img src="/images/pc-build/2026-10-12.jpg" alt="The PC on October 12, 2026, with an AIO liquid cooler installed and cable management in progress">
   <figcaption>Left: the original build. Right: October 12, 2026, mid–cable cleanup.</figcaption>
 </figure>
+
+**October 31, 2026:** Added another 64 GB of DDR4, bringing memory to 128 GB at 3200 MHz, giving more room to hold large datasets in memory during analysis.
 
 **October 24, 2026:** Took an offer I couldn't pass up on a 2 × 32 GB DDR4-3200 kit, bringing memory to 96 GB. Running the mixed kits together cost a little memory speed, but the extra capacity mainly helps with data analysis, which for some of my work has taken longer than the simulations themselves.
 
